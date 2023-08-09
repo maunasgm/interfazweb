@@ -1,0 +1,43 @@
+body {
+  background-color: aliceblue;
+  color: dimgray;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+}
+
+h1 {
+  color: blueviolet;
+  font-weight: 900;
+  font-size: 50px;
+  text-align: center;
+  border-width: 4px;
+  border-color: cadetblue;
+  border-style: outset;
+}
+
+h2 {
+  color: brown;
+  font-weight: 700;
+  font-size: 30px;
+  letter-spacing: 2px;
+  word-spacing: 4px;
+}
+
+strong {
+  font-family: "Coiny", cursive;
+}
+
+a {
+  color: chocolate;
+  font-style: italic;
+  line-height: 40px;
+  text-decoration: none;
+}
+
+p {
+  text-indent: 30px;
+}
+
+/* Import fonts */
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Coiny&display=swap");
