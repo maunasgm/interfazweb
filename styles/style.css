@@ -30,14 +30,16 @@ strong {
 a {
   color: chocolate;
   font-style: italic;
-  line-height: 40px;
+  line-height: 50px;
   text-decoration: none;
 }
 
 p {
-  text-indent: 30px;
+  font-family: 'Borel', cursive;
+  text-indent: 50px;
 }
 
 /* Import fonts */
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;900&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Coiny&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Borel&display=swap");
