@@ -35,8 +35,21 @@ a {
 }
 
 p {
-  font-family: 'Borel', cursive;
+  font-family: "Borel", cursive;
   text-indent: 50px;
+}
+
+header img {
+  width: 40%;
+  margin-left: 25%;
+}
+
+aside img {
+  width: 4%;
+}
+
+#imagen {
+  width: 30%;
 }
 
 /* Import fonts */
